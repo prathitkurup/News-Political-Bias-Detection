@@ -18,3 +18,4 @@ In this Milestone, we trained our baseline model BERT on our data and evaluated 
 
 ## To Run:
 
+To run our training-testing pipeline, run the notebook cells in order. Refer to comments in the notebook for further guidance on functionality.
