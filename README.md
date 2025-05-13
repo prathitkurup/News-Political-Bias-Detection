@@ -10,7 +10,7 @@ We created a model for detecting political bias of news articles based on headli
 
 ## To Run:
 
-To run our training-testing pipeline, run the notebook cells in order. To train any one of the LSTM, TF-IDF, or BERT models, look for the relevant section and run all cells in the section in order. Refer to comments in the notebook for further guidance on functionality.
+To run our training-testing pipeline, run the notebook cells (in News_Bias_Detector.ipynb) in order. To train any one of the LSTM, TF-IDF, or BERT models, look for the relevant section and run all cells in the section in order. Refer to comments in the notebook for further guidance on functionality.
 
 ## Milestone 1:
 
