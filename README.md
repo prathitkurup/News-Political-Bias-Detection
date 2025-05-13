@@ -16,6 +16,12 @@ In this milestone, we loaded the data, processed it, and ran some basic data epx
 
 In this Milestone, we trained our baseline LSTM model on our data and evaluated its accuracy, precision, recall, and F1.
 
+## Final Models:
+
+Our first model is a custom LSTM baseline. This model achieved an accuracy of nearly 99%.
+For our second model we used a term frequency–inverse document frequency (TF-IDF) model to experiment with another type of model with increased complexity. This model also achieved 99% accuracy.
+Our final model is a finetuned BERT model using the pre-trained bert-medium-en-uncased. This model performed just as well with an accuracy nearing 99%.
+
 ## To Run:
 
 To run our training-testing pipeline, run the notebook cells in order. To train any one of the LSTM, TF-IDF, or BERT models, look for the relevant section and run all cells in the section in order. Refer to comments in the notebook for further guidance on functionality.
