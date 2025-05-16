@@ -23,5 +23,5 @@ In this Milestone, we trained our baseline LSTM model on our data and evaluated 
 ## Final Models:
 
 Our first model is a custom LSTM baseline. This model achieved an accuracy of nearly 99%.
-For our second model we used a term frequency–inverse document frequency (TF-IDF) model to experiment with another type of model with increased complexity. This model also achieved 99% accuracy.
+For our second model we used a term frequency–inverse document frequency (TF-IDF) model to experiment with another type of model with increased complexity. This model only achieved around 91% accuracy.
 Our final model is a finetuned BERT model using the pre-trained bert-medium-en-uncased. This model performed just as well with an accuracy nearing 99%.
