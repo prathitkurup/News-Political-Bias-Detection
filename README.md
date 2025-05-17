@@ -1,4 +1,4 @@
-/*News-Political-Bias-Detection*/
+***News-Political-Bias-Detection***
 
 Zero Shot Zealots, Sandesh Ghimire branch
 
